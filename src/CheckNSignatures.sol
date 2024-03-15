@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-import { ECDSA } from "solady/utils/ECDSA.sol";
+import { ECDSA } from "solady/src/utils/ECDSA.sol";
 
 bytes4 constant EIP1271_MAGIC_VALUE = 0x1626ba7e;
 

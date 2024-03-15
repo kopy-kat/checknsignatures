@@ -5,7 +5,7 @@ import "forge-std/Test.sol";
 
 import "../src/CheckNSignatures.sol";
 
-import { SignatureCheckerLib } from "solady/utils/SignatureCheckerLib.sol";
+import { SignatureCheckerLib } from "solady/src/utils/SignatureCheckerLib.sol";
 import { CheckNSignaturesFoundryHelper } from "../src/CheckNSignaturesFoundryHelper.sol";
 /// @title CheckNSignaturesTest
 /// @author zeroknots
